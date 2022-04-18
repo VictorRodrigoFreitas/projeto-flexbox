@@ -1,2 +1,2 @@
-# projeto-flexbox
-meu primeiro projeto com flexbox
+# Projeto Flexbox
+ - Meu primeiro projeto com flexbox
